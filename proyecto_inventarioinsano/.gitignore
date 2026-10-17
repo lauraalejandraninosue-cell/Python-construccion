@@ -1,0 +1,10 @@
+
+# Archivos temporales
+__pycache__/
+*.py[cod]
+
+venv/
+.venv/
+
+# Variables, datos privados
+.env
