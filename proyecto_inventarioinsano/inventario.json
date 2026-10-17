@@ -1,0 +1,22 @@
+[
+    {
+        "codigo": "P01",
+        "nombre": "Arroz x",
+        "stock": 6
+    },
+    {
+        "codigo": "P02",
+        "nombre": "Aceite de olivaa",
+        "stock": 1
+    },
+    {
+        "codigo": "P03",
+        "nombre": "Cafecito",
+        "stock": 5
+    },
+    {
+        "codigo": "P04",
+        "nombre": "Leche descremada",
+        "stock": 6
+    }
+]
