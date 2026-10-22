@@ -1,22 +1,22 @@
 [
     {
         "codigo": "P01",
-        "nombre": "Arroz x",
-        "stock": 6
+        "nombre": "Arroz",
+        "stock": 13
     },
     {
         "codigo": "P02",
-        "nombre": "Aceite de olivaa",
-        "stock": 1
+        "nombre": "Aceite",
+        "stock": 7
     },
     {
         "codigo": "P03",
-        "nombre": "Cafecito",
-        "stock": 5
+        "nombre": "Azucar",
+        "stock": 8
     },
     {
         "codigo": "P04",
-        "nombre": "Leche descremada",
-        "stock": 6
+        "nombre": "Cafe",
+        "stock": 1
     }
 ]
